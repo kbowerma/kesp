@@ -1,6 +1,6 @@
-# Project Name
+# KESP
 
-A brief description of what the project does.
+A Collection of ESP and ESPHome projects.
 
 ## Table of Contents
 
